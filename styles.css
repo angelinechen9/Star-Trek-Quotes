@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+	color: yellow;
+	font-size: 20px;
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+}
+
+button {
+	color: black;
+	font-size: 20px;
+	font-family: 'Oswald', sans-serif;
+	border: none;
+	width: 25%;
+}
+
+#previous {
+	background-color: violet;
+}
+
+#next {
+	background-color: orange;
+}
